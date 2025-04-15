@@ -74,3 +74,11 @@ Approximately 45% of WRDSB's 123 schools are below the state of good repair, wit
     - Apply the framework to the assessed data to generate a ranked list of schools.
     - Review and adjust the framework periodically to reflect changing needs.
 
+- **Sub-Issue 4**: Monitor and Report on Infrastructure Improvement Progress
+  - **Priority**: 🟠 Medium
+  - **Goal**: Ensure transparency and accountability in addressing infrastructure issues.
+  - **Approach**: Implement a reporting system to track progress and communicate with stakeholders.
+  - **Tasks**:
+    - Develop key performance indicators (KPIs) for infrastructure improvements.
+    - Generate regular progress reports.
+    - Solicit feedback and adjust as necessary.
