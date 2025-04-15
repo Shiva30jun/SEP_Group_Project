@@ -139,3 +139,12 @@ The WRDSB faces a substantial infrastructure backlog, estimated at $178 million,
     -  Design key performance indicators (KPIs) to measure progress.
     - Develop dashboards accessible to stakeholders.
     - Schedule regular progress reports and reviews.
+
+
+### 3. Lack of Centralized Reporting System
+
+**User Story**:
+As a WRDSB Facilities Manager, I want a unified platform to report and track maintenance issues so that resolutions are timely and efficient.
+
+**Priority**: 🔴 High  
+**GitHub Issue**: #3
