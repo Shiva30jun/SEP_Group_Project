@@ -91,3 +91,6 @@ As a WRDSB Facilities Manager, I want to prioritize the maintenance backlog so t
 
 **Priority**: 🔴 High  
 **GitHub Issue**: #2
+
+**Purpose**:  
+The WRDSB faces a substantial infrastructure backlog, estimated at $178 million, with an additional $401 million required over the next decade to bring all schools to a state of good repair, totaling $579 million in projected costs. This backlog poses risks to student safety, disrupts educational activities, and may lead to increased costs if not addressed promptly.
