@@ -194,4 +194,6 @@ Currently, maintenance issues are reported through various channels, leading to 
    - Schedule regular reviews of maintenance data to inform decision-making.
    - Configure the system to send alerts to relevant staff when maintenance issues are reported or when KPIs exceed predefined thresholds.
 
+**Outcome:**  
+Implementing this centralized reporting system will enhance maintenance efficiency, reduce response times, and improve the overall condition of WRDSB public school facilities.
 
