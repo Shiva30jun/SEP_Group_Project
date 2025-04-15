@@ -148,3 +148,7 @@ As a WRDSB Facilities Manager, I want a unified platform to report and track mai
 
 **Priority**: 🔴 High  
 **GitHub Issue**: #3
+
+**Purpose**:  
+Currently, maintenance issues are reported through various channels, leading to delays and inefficiencies. A centralized system would streamline reporting, improve response times, and enhance overall facility management.
+
