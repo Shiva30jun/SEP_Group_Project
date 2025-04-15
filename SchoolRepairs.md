@@ -29,3 +29,14 @@ Approximately 45% of WRDSB's 123 schools are below the state of good repair, wit
 - Develop a centralized database to track the condition and maintenance history of each school facility.
 - Establish a prioritization framework based on severity, risk, and impact to allocate resources effectively.
 - Secure funding through grants and budget allocations to address the identified infrastructure needs.
+
+**Sub-Issues**:
+
+- **Sub-Issue 1**: Develop a Standardized Assessment Protocol
+  - **Priority**: 🔴 High
+  - **Goal**: Create a consistent methodology for evaluating the condition of school facilities.
+  - **Approach**: Collaborate with experts to define assessment criteria and scoring systems.
+  - **Tasks**:
+    - Review existing assessment tools and identify best practices.
+    - Design assessment forms and guidelines.
+    - Pilot the assessment protocol in a subset of schools and refine based on feedback.
