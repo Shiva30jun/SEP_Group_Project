@@ -166,3 +166,13 @@ Currently, maintenance issues are reported through various channels, leading to 
     - Document existing workflows and identify pain points.
     - Highlight areas lacking efficiency or clarity.
 
+- **Sub-Issue 2**: Develop Centralized Reporting Platform
+  - **Priority**: 🔴 High
+  - **Goal**: Implement a unified system for maintenance issue reporting.
+  - **Approach**: Choose between off-the-shelf solutions or custom development.
+  - **Tasks**:
+   - Research available maintenance management systems.
+   - Assess compatibility with WRDSB needs.
+   - Develop or configure the chosen system.
+
+
