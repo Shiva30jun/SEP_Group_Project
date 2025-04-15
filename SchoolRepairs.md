@@ -100,3 +100,14 @@ The WRDSB faces a substantial infrastructure backlog, estimated at $178 million,
 - Conduct a comprehensive audit to identify and document all deferred maintenance tasks across WRDSB public schools.
 - Establish a funding strategy to address the backlog, including exploring government grants and alternative financing options.
 - Implement a monitoring and reporting mechanism to track progress and ensure accountability.
+
+**Sub-Issues**:
+
+- **Sub-Issue 1**: Comprehensive Audit of Deferred Maintenance
+  - **Priority**: 🔴 High
+  - **Goal**: Identify and document all outstanding maintenance issues across WRDSB public schools.
+  - **Approach**: Engage facility staff to assess each public school and record maintenance needs.
+  - **Tasks**:
+    - Develop standardized inspection checklists.
+    - Schedule and conduct inspections for all public schools.
+    - Compile and analyze data to quantify the backlog.
