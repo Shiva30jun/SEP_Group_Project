@@ -111,3 +111,13 @@ The WRDSB faces a substantial infrastructure backlog, estimated at $178 million,
     - Develop standardized inspection checklists.
     - Schedule and conduct inspections for all public schools.
     - Compile and analyze data to quantify the backlog.
+
+- **Sub-Issue 2**: Funding Strategy Development
+  - **Priority**: 🔴 High
+  - **Goal**: Secure necessary funds to address the maintenance backlog.
+  - **Approach**: Explore various funding sources, including government grants, public-private partnerships, and budget reallocations.
+  - **Tasks**:
+    - Identify and apply for relevant grants and funding programs.
+    - Engage stakeholders to discuss potential funding avenues.
+    - Develop a multi-year financial plan to address the backlog.
+
