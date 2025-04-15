@@ -175,4 +175,16 @@ Currently, maintenance issues are reported through various channels, leading to 
    - Assess compatibility with WRDSB needs.
    - Develop or configure the chosen system.
 
+- **Sub-Issue 3**: Staff Training and System Monitoring
+  - **Priority**: 🟠 Medium
+  - **Goal**: Ensure effective use of the new reporting system.
+  - **Approach**: Provide comprehensive training and gather feedback.
+  - **Tasks**:
+   - Organize training sessions for relevant staff.
+   - Create user manuals and support materials.
+   - Monitor system usage and address issues as they arise.
+
+
+
+
 
