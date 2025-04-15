@@ -94,3 +94,9 @@ As a WRDSB Facilities Manager, I want to prioritize the maintenance backlog so t
 
 **Purpose**:  
 The WRDSB faces a substantial infrastructure backlog, estimated at $178 million, with an additional $401 million required over the next decade to bring all schools to a state of good repair, totaling $579 million in projected costs. This backlog poses risks to student safety, disrupts educational activities, and may lead to increased costs if not addressed promptly.
+
+
+**Implementation Strategy**:
+- Conduct a comprehensive audit to identify and document all deferred maintenance tasks across WRDSB public schools.
+- Establish a funding strategy to address the backlog, including exploring government grants and alternative financing options.
+- Implement a monitoring and reporting mechanism to track progress and ensure accountability.
