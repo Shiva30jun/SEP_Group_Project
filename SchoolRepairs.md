@@ -20,3 +20,6 @@ As a WRDSB Facilities Manager, I want to prioritize schools with aging infrastru
 
 **Priority**: 🔴 High  
 **GitHub Issue**: #1
+
+**Purpose**:  
+Approximately 45% of WRDSB's 123 schools are below the state of good repair, with 55 schools requiring rehabilitation or replacement. This significant proportion of aging infrastructure poses safety risks and hinders the delivery of quality education. Addressing this issue is critical to maintaining safe, functional, and modern educational facilities.
