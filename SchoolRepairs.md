@@ -82,3 +82,12 @@ Approximately 45% of WRDSB's 123 schools are below the state of good repair, wit
     - Develop key performance indicators (KPIs) for infrastructure improvements.
     - Generate regular progress reports.
     - Solicit feedback and adjust as necessary.
+
+
+### 2. Significant Maintenance Backlog
+
+**User Story**:  
+As a WRDSB Facilities Manager, I want to prioritize the maintenance backlog so that resources are allocated efficiently for all public schools' safety standards.
+
+**Priority**: 🔴 High  
+**GitHub Issue**: #2
