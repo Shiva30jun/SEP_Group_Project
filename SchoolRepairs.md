@@ -130,3 +130,12 @@ The WRDSB faces a substantial infrastructure backlog, estimated at $178 million,
     - Develop maintenance schedules and protocols.
     - Train maintenance staff on preventive practices.
     - Keep records of maintenance activities and use them to plan future work.
+
+- **Sub-Issue 4**: Monitoring and Reporting Mechanism
+  - **Priority**:  🟠 Medium
+  - **Goal**:   Track progress in addressing the maintenance backlog and ensure transparency.
+  - **Approach**: Implement dashboards and regular reporting protocols.
+  - **Tasks**:
+    -  Design key performance indicators (KPIs) to measure progress.
+    - Develop dashboards accessible to stakeholders.
+    - Schedule regular progress reports and reviews.
