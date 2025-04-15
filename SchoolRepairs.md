@@ -156,3 +156,13 @@ Currently, maintenance issues are reported through various channels, leading to 
 - Assess existing reporting processes to identify gaps.
 - Develop or adopt a centralized maintenance management system.
 - Train staff on the new system and monitor its effectiveness.
+
+- **Sub-Issue 1**: Evaluate Current Reporting Processes
+  - **Priority**: 🔴 High
+  - **Goal**: Understand existing workflows and identify inefficiencies.
+  - **Approach**: Conduct discussion sessions and map current reporting methods.
+  - **Tasks**:
+    - Discussion sessions with maintenance staff about current reporting practices.
+    - Document existing workflows and identify pain points.
+    - Highlight areas lacking efficiency or clarity.
+
