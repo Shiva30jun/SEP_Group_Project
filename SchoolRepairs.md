@@ -184,7 +184,14 @@ Currently, maintenance issues are reported through various channels, leading to 
    - Create user manuals and support materials.
    - Monitor system usage and address issues as they arise.
 
-
-
+- **Sub-Issue 4**: Implement Reporting, Monitoring, and Notifications
+  - **Priority**: 🔴 High
+  - **Goal**: Establish tools to monitor maintenance activities, generate reports, and notify relevant staff of public schools and board members about facility conditions.
+  - **Approach**: Integrate reporting features and automated notifications into the centralized system.
+  - **Tasks**:
+   - Define key performance indicators (KPIs) for maintenance activities.
+   - Develop dashboards and reporting tools to track KPIs.
+   - Schedule regular reviews of maintenance data to inform decision-making.
+   - Configure the system to send alerts to relevant staff when maintenance issues are reported or when KPIs exceed predefined thresholds.
 
 
