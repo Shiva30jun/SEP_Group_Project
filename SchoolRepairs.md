@@ -121,3 +121,12 @@ The WRDSB faces a substantial infrastructure backlog, estimated at $178 million,
     - Engage stakeholders to discuss potential funding avenues.
     - Develop a multi-year financial plan to address the backlog.
 
+- **Sub-Issue 3**: Preventive Maintenance Program
+  - **Priority**:  🟠 Medium
+  - **Goal**:  Reduce future maintenance backlogs through proactive measures.
+  - **Approach**: Establish a preventive maintenance schedule for all facilities.
+  - **Tasks**:
+    - Identify critical systems and components requiring regular maintenance.
+    - Develop maintenance schedules and protocols.
+    - Train maintenance staff on preventive practices.
+    - Keep records of maintenance activities and use them to plan future work.
