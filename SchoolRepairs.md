@@ -1,2 +1,4 @@
 # Project Title: School Repairs – Create a platform for tracking and reporting the condition of public school buildings
 
+## Project Overview
+This project aims to develop a centralized platform to monitor and report the condition of public school buildings within the Waterloo Region District School Board (WRDSB). WRDSB was selected due to recent findings indicating that approximately 45% of its 123 schools are below the state of good repair, with a maintenance backlog estimated at $178 million. The platform seeks to streamline maintenance reporting, enhance transparency, and ensure efficient resource allocation to address critical infrastructure needs, ultimately improving the safety and learning environment for students and staff across the region.
