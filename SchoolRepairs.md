@@ -40,3 +40,27 @@ Approximately 45% of WRDSB's 123 schools are below the state of good repair, wit
     - Review existing assessment tools and identify best practices.
     - Design assessment forms and guidelines.
     - Pilot the assessment protocol in a subset of schools and refine based on feedback.
+
+- **Sub-Issue 2**: Implement a Centralized Facility Condition Database
+  - **Priority**: 🟠 Medium
+  - **Goal**: Establish a digital repository to store and manage facility condition data.
+  - **Approach**: Utilize a relational database system (e.g., PostgreSQL) with a user-friendly interface.
+  - **Tasks**:
+    - Define data fields (e.g., building age, condition scores, maintenance history).
+    - Develop the database schema and implement the system.
+    - Train staff on data entry and retrieval processes.
+
+    ```sql
+    CREATE TABLE facility_conditions (
+        id SERIAL PRIMARY KEY,
+        school_name VARCHAR(255) NOT NULL,
+        address TEXT,
+        construction_year INT,
+        last_assessment_date DATE,
+        condition_score DECIMAL(5,2),
+        recommended_action VARCHAR(100),
+        notes TEXT
+    );
+
+    CREATE INDEX idx_condition_score ON facility_conditions(condition_score);
+    ```
