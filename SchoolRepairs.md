@@ -64,3 +64,13 @@ Approximately 45% of WRDSB's 123 schools are below the state of good repair, wit
 
     CREATE INDEX idx_condition_score ON facility_conditions(condition_score);
     ```
+
+- **Sub-Issue 3**: Establish a Prioritization Framework for Maintenance and Rehabilitation
+  - **Priority**: 🔴 High
+  - **Goal**: Allocate resources effectively by prioritizing facilities based on need.
+  - **Approach**: Develop a scoring system that considers condition scores, student population, and potential risks.
+  - **Tasks**:
+    - Define prioritization criteria and weightings.
+    - Apply the framework to the assessed data to generate a ranked list of schools.
+    - Review and adjust the framework periodically to reflect changing needs.
+
