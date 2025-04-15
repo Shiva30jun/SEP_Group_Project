@@ -9,3 +9,14 @@ Recent assessments have highlighted significant challenges regarding the conditi
 - **Aging and Deteriorating Infrastructure**: Approximately 45% of WRDSB's 123 schools are below the state of good repair, with 55 schools requiring rehabilitation or replacement.
 - **Significant Maintenance Backlog**: The infrastructure backlog for these schools is estimated at $178 million, with an additional $401 million needed to bring all schools to a state of good repair over the next decade, totaling $579 million in projected costs.
 - **Lack of Centralized Reporting System**: Currently, there's no unified platform for reporting and tracking maintenance issues, leading to delays and inefficiencies.
+
+
+## Actionable Requirements
+
+### 1. Aging and Infrastructure Condition
+
+**User Story**:  
+As a WRDSB Facilities Manager, I want to prioritize schools with aging infrastructure so that maintenance efforts can be effectively allocated to ensure safe learning environments.
+
+**Priority**: 🔴 High  
+**GitHub Issue**: #1
