@@ -152,3 +152,7 @@ As a WRDSB Facilities Manager, I want a unified platform to report and track mai
 **Purpose**:  
 Currently, maintenance issues are reported through various channels, leading to delays and inefficiencies. A centralized system would streamline reporting, improve response times, and enhance overall facility management.
 
+**Implementation Strategy**:
+- Assess existing reporting processes to identify gaps.
+- Develop or adopt a centralized maintenance management system.
+- Train staff on the new system and monitor its effectiveness.
